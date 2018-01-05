@@ -11,7 +11,7 @@
 ![流程图.png](http://upload-images.jianshu.io/upload_images/419652-a35d4a7b26b24b55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 三、实现效果
-![效果图.gif](http://upload-images.jianshu.io/upload_images/419652-f8f1b6c8976c604f.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果图.gif](https://github.com/chezi008/VideoSurveillance/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.gif)
 
 ### 四、TextureView
 
