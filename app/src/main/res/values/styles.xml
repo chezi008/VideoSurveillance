@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="PqVideoPlayer">
+        <attr name="vp_border_size" format="integer"></attr>
+        <attr name="vp_border_color" format="color"></attr>
+        <attr name="vp_bg_default_color" format="color"></attr>
+        <attr name="vp_bg_select_color" format="color"></attr>
+        <attr name="vp_res_icon" format="reference"></attr>
+        <attr name="vp_fullscreen_icon" format="reference"></attr>
+        <attr name="vp_stop_icon" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="VideoRecycler">
+        <attr name="vc_columns_num" format="integer"></attr>
+    </declare-styleable>
+</resources>

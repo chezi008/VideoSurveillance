@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnStop" type="id">btnStop</item>
+    <item name="btnFullScreen" type="id">btnFullScreen</item>
+    <item name="tvDeviceInfo" type="id">tvDeviceInfo</item>
+    <item name="tvLossFrame" type="id">tvLossFrame</item>
+    <item name="iv_res_add" type="id">iv_res_add</item>
+</resources>
