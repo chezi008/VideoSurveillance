@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@+id/btn_video_container"
         app:layout_constraintLeft_toLeftOf="@+id/btn_video_container"
-        android:text="自动更新"/>
+        android:text="全屏无缝切换"/>
 
 </android.support.constraint.ConstraintLayout>

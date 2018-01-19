@@ -54,7 +54,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_video_container:
-                VideoContainerActivity.start(this);
+                PqVideoContainerActivity.start(this);
                 break;
             case R.id.btn_auto_update:
                 PqVideoContainerActivity.start(this);

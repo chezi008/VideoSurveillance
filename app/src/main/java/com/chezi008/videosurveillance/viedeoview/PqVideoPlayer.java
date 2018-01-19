@@ -410,7 +410,6 @@ public class PqVideoPlayer extends RelativeLayout implements View.OnClickListene
      * 开启全屏
      */
     public void startFullScreen() {
-        isFullScreen = true;
     }
 
     /**

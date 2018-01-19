@@ -20,7 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.VideoContainerActivity" />
-        <activity android:name=".ui.PqVideoContainerActivity"></activity>
+        <activity android:name=".ui.PqVideoContainerActivity" />
+        <activity android:name=".ui.FullScreenActivity"></activity>
     </application>
 
 </manifest>
