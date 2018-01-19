@@ -22,6 +22,7 @@ import android.widget.TextView;
 
 import com.chezi008.videosurveillance.H264ReadRunable;
 import com.chezi008.videosurveillance.R;
+import com.chezi008.videosurveillance.ui.FullScreenActivity;
 import com.chezi008.videosurveillance.utils.DensityUtils;
 
 import java.util.concurrent.ArrayBlockingQueue;
@@ -410,6 +411,8 @@ public class PqVideoPlayer extends RelativeLayout implements View.OnClickListene
      * 开启全屏
      */
     public void startFullScreen() {
+        isFullScreen = true;
+        FullScreenActivity.start(getContext());
     }
 
     /**

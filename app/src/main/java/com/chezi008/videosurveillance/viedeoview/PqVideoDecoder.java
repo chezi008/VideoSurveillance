@@ -77,7 +77,7 @@ public class PqVideoDecoder {
             return;
         }
         //判断帧的类型
-        Log.d(TAG, "feedData: type:"+(buf[4] & 0x1f));
+//        Log.d(TAG, "feedData: type:"+(buf[4] & 0x1f));
         switch (buf[4] & 0x1f) {
             case NALU_TYPE_IDR:
                 naluType = MediaCodec.BUFFER_FLAG_KEY_FRAME;
